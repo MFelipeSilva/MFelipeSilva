@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/mutadofs">
   <img width="48% height="180em" src="https://github-readme-stats.vercel.app/api?username=mutadofs&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img width="48% height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutadofs&layout=compact&langs_count=7&theme=synthwave"/>
+  <img width="48% height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutadofs&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <div style="display: inline_block"><br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
