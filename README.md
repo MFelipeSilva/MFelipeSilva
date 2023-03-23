@@ -2,7 +2,8 @@
 
 <div align="flex-start">
   <p>Eae turma, eu sou um desenvolvedor Fullstack 💻.
- </br>Atualmente estou em constante evolução, utilizando boas práticas nos meus projetos e ferramentas eficientes, para assim eu evoluir na minha carreira de     desenvolvedor.</p>
+ </br>Atualmente estou em constante evolução, utilizando boas práticas nos meus projetos e ferramentas eficientes, 
+ </br>para assim eu evoluir na minha carreira de desenvolvedor.</p>
 </div>
 <div style="display: inline_block"><br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
