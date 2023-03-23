@@ -1,8 +1,8 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"> Hello fellows! I'm Felipe!
 
 <div align="flex-start">
-  <p>Eae turma, eu sou um desenvolvedor Fullstack 💻.</p>
-  <p>Atualmente estou em constante evolução, utilizando boas práticas nos meus projetos e ferramentas eficientes.</p>
+  <p>Eae turma, eu sou um desenvolvedor Fullstack 💻.
+ </br>Atualmente estou em constante evolução, utilizando boas práticas nos meus projetos e ferramentas eficientes, para assim eu evoluir na minha carreira de     desenvolvedor.</p>
 </div>
 <div style="display: inline_block"><br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
