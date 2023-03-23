@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"> Hello fellows! I'm Felipe!
 
-<div align="center">
+<div align="flex-start">
   <p>Salve devs</p>
 </div>
 <div style="display: inline_block"><br>
