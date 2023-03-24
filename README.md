@@ -8,7 +8,7 @@
  🔎 · "Um dia sem estudar é um dia a mais entre você eu seu objetivo."
  
  
- #### Principais tecnologias:
+ ### Principais tecnologias:
     - Typescript
     - ReactJS
     - React Native
