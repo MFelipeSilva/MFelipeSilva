@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"> Hello fellows! I'm Felipe!
+## Hello fellows! I'm Felipe! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">
 
 <div align="flex-start">
   Eae turma, eu sou um desenvolvedor Fullstack 💻.
