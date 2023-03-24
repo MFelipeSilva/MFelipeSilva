@@ -8,7 +8,12 @@
  🔎 · "Um dia sem estudar é um dia a mais entre você eu seu objetivo."
  
  
- ##Principais tecnologias
+ ## Principais tecnologias:
+    - Typescript
+    - ReactJS
+    - React Native
+    - HTML
+    - Styled Components
 </div>
 <div style="display: inline_block"><br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
