@@ -1,8 +1,8 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"> Hello fellows! I'm Felipe!
 
 <div align="flex-start">
-  <p>Eae turma, eu sou um desenvolvedor Fullstack 💻.</p>
- <p>Atualmente estou em constante evolução, utilizando boas práticas nos meus projetos e ferramentas eficientes, 
+  <p>Eae turma, eu sou um desenvolvedor Fullstack 💻.
+ </br>Atualmente estou em constante evolução, utilizando boas práticas nos meus projetos e ferramentas eficientes, 
  </br>para assim eu evoluir na minha carreira de desenvolvedor.</p>
  
  <p>🔎 · "Um dia sem estudar é um dia a mais entre você eu seu objetivo."</p>
