@@ -9,9 +9,9 @@
  
  ### Principais tecnologias:
     - Typescript
+    - Javascript
     - ReactJS
     - React Native
-    - HTML
     - Styled Components
   
   🔭 · Em busca de oportunidades.
