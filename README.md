@@ -1,10 +1,6 @@
 ## Hello! I'm Felipe! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div align="flex-start">
-  Eae turma, eu sou um desenvolvedor Fullstack 💻.
- <br/>Atualmente estou em constante evolução, utilizando boas práticas nos meus projetos e ferramentas eficientes
- <br/>para evoluir na minha carreira de desenvolvedor.
-  <br/><br/>
  🔎 · "Um dia sem estudar é um dia a mais entre você eu seu objetivo."
  
  ### Principais tecnologias:
