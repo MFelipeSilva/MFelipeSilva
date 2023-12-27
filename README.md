@@ -9,20 +9,17 @@
     - ReactJS
     - React Native
     - Styled Components
+
   
   🔭 · Em busca de oportunidades.
 </div>
 <div style="display: inline_block"><br> 
-  <img align="center" src="https://skillicons.dev/icons?i=javascript,typescript,css,html,react,redux,nextjs,vite,sass,tailwind,styledcomponents,nodejs,vercel,bash,powershell,git,github,firebase,ps,pr,mysql,mongodb,figma,vscode" />
+  <img align="center" src="https://skillicons.dev/icons?i=javascript,typescript,css,html,react,redux,nextjs,vite,sass,tailwind,styledcomponents,nodejs,vercel,git,github,firebase,mongodb,figma,vscode" />
 </div>
-  
-  ##
- 
-  ## Entre em contanto:
-<div> 
-  <a href = "silvaafelipe016@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-silva-62386b242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/mutadofs/mutadofs/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+---
+
+ - 🌐 [My Portifolio](https://mfelipesilva.vercel.app/)
+ - 📧 [Email](silvaafelipe016@gmail.com)
+ - 🥳 [Linkedin](https://www.linkedin.com/in/mfelipesilva/)
+
