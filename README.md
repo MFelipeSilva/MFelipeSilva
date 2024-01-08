@@ -20,6 +20,6 @@
 ---
 
  - 🌐 [Portfolio](https://mfelipesilva.vercel.app/)
- - 📧 [Email](silvaafelipe016@gmail.com)
+ - 📧 [Email](mailto:silvaafelipe016@gmail.com)
  - 🥳 [Linkedin](https://www.linkedin.com/in/mfelipesilva/)
 
