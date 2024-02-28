@@ -8,7 +8,6 @@
     - Javascript
     - ReactJS
     - React Native
-    - Styled Components
 
   
   🔭 · Em busca de oportunidades.
