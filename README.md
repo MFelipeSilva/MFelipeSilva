@@ -13,7 +13,7 @@
   🔭 · Em busca de oportunidades.
 </div>
 <div style="display: inline_block"><br> 
-  <img align="center" src="https://skillicons.dev/icons?i=javascript,typescript,css,html,react,redux,nextjs,vite,sass,tailwind,styledcomponents,nodejs,vercel,git,github,firebase,mongodb,figma,vscode" />
+  <img align="center" src="https://skillicons.dev/icons?i=javascript,typescript,css,html,react,redux,nextjs,vite,tailwind,styledcomponents,nodejs,git,github,firebase,mongodb,figma,vscode" />
 </div>
 
 ---
