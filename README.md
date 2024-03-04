@@ -2,8 +2,8 @@
 
 <div align="flex-start">
  🔎 · "Um dia sem estudar é um dia a mais entre você eu seu objetivo."
- 
- #### Principais tecnologias:
+
+  ### Main Skills:
     - Typescript
     - Javascript
     - ReactJS
@@ -18,6 +18,8 @@
 </div>
 
 ---
+
+ ### Hard Skills:
 <div style="display: inline_block">
   <img align="center" src="https://skillicons.dev/icons?i=javascript,typescript,css,html,react,redux,nextjs,tailwind,styledcomponents,nodejs,git,github,mongodb,figma,vscode" />
 </div>
