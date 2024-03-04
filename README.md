@@ -11,14 +11,14 @@
 
   
   🔭 · Em busca de oportunidades.
-</div>
-<div style="display: inline_block"><br> 
-  <img align="center" src="https://skillicons.dev/icons?i=javascript,typescript,css,html,react,redux,nextjs,tailwind,styledcomponents,nodejs,git,github,mongodb,figma,vscode" />
-</div>
-
----
 
  - 🌐 [Portfolio](https://mfelipesilva.vercel.app/)
  - 📧 [Email](mailto:silvaafelipe016@gmail.com)
  - 🥳 [Linkedin](https://www.linkedin.com/in/mfelipesilva/)
+</div>
+
+---
+<div style="display: inline_block">
+  <img align="center" src="https://skillicons.dev/icons?i=javascript,typescript,css,html,react,redux,nextjs,tailwind,styledcomponents,nodejs,git,github,mongodb,figma,vscode" />
+</div>
 
