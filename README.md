@@ -4,10 +4,11 @@
  🔎 · "Um dia sem estudar é um dia a mais entre você eu seu objetivo."
 
   ### Main Skills:
+    - ReactJS
+    - NodeJS
     - Typescript
     - Javascript
-    - ReactJS
-    - React Native
+ 
 
   
   🔭 · Em busca de oportunidades.
