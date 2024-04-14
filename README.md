@@ -1,27 +1,24 @@
-## Hello! I'm Felipe! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<div align="flex-start">
- 🔎 · "Um dia sem estudar é um dia a mais entre você eu seu objetivo."
-
-  ### Main Skills:
-    - ReactJS
-    - NodeJS
-    - Typescript
-    - Javascript
- 
-
-  
-  🔭 · Em busca de oportunidades.
-
- - 🌐 [Portfolio](https://mfelipesilva.vercel.app/)
- - 📧 [Email](mailto:silvaafelipe016@gmail.com)
- - 🥳 [Linkedin](https://www.linkedin.com/in/mfelipesilva/)
-</div>
+> [!NOTE]
+> #### 🧑🏽‍💻 About me:
+> Hi! My name is Mauricio Felipe da Silva but you can call me Felipe, I’m a Full-stack & UI/UX Design developer and I’m always looking for opportunities.
+> </br>
+> </br>
+> I always liked the areas related to design and interfaces, so much so that I already had a channel in which I taught others to create banners, thumbnails, and how to use some functionalities in some applications and programs.
+> </br>
+> </br>
+> And when I met the world of web development through a friend, right away I had the interest in the front-end part. Since then I started to study and create small projects that made me acquire more knowledge and passion for the area.
+> </br>
+> </br>
+>  #### 💻 Currently these are my main technologies:
+>  HTML5, CSS3 e Javascript.
+> </br>
+>  Frameworks e libs: React, NextJS, Node, TypeScript, React Query, Redux, Ant Design, Styled Components, Tailwind.
+> </br>
+>  Versionamento: Git, GitHub.
+> </br>
+>  Banco de dados: PostgreSQL, MongoDB.
+> </br>
+>  Outros: Consumo de API's e Figma.
 
 ---
-
- ### Hard Skills:
-<div style="display: inline_block">
-  <img align="center" src="https://skillicons.dev/icons?i=javascript,typescript,css,html,react,redux,nextjs,tailwind,styledcomponents,nodejs,git,github,mongodb,figma,vscode" />
-</div>
 
