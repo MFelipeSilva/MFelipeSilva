@@ -8,7 +8,6 @@
 > </br>
 > And when I met the world of web development through a friend, right away I had the interest in the front-end part. Since then I started to study and create small projects that made me acquire more knowledge and passion for the area.
 > </br>
-> </br>
 >  ### 💻 My technologies:
 >  HTML5, CSS3 and Javascript.
 > </br>
@@ -19,7 +18,7 @@
 > Database: PostgreSQL, MongoDB.
 > </br>
 > Others: Consumo de API's e Figma.
-
+> 
 ---
 
 <div align="center">
