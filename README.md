@@ -21,4 +21,10 @@
 >  Outros: Consumo de API's e Figma.
 
 ---
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)](https://linkedin.com/in/mfelipesilva)
+  [![Mail](https://img.shields.io/badge/Mail-black?style=flat-square&logo=gmail)](mailto://silvaafelipe016@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram)](https://instagram.com/mfelipesilva_)
+</div>
 
