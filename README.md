@@ -9,7 +9,7 @@
 > And when I met the world of web development through a friend, right away I had the interest in the front-end part. Since then I started to study and create small projects that made me acquire more knowledge and passion for the area.
 > </br>
 > </br>
->  ### 💻 Currently these are my main technologies:
+>  ### 💻 My technologies:
 >  HTML5, CSS3 and Javascript.
 > </br>
 >  Frameworks and libs: React, NextJS, Node, TypeScript, React Query, Redux, Ant Design, Styled Components, Tailwind.
