@@ -17,7 +17,7 @@
 > </br>
 > Database: PostgreSQL, MongoDB.
 > </br>
-> Others: Consumo de API's e Figma.
+> Others: Consumption of APIs and Figma.
 > 
 ---
 
