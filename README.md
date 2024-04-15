@@ -18,7 +18,8 @@
 > Database: PostgreSQL, MongoDB.
 > </br>
 > Others: Consumption of APIs and Figma.
-> 
+>
+
 ---
 
 <div align="center">
