@@ -1,6 +1,6 @@
 > [!NOTE]
 > ### 🧑🏽‍💻 About me:
-> Hi! My name is Mauricio Felipe da Silva but you can call me Felipe, I’m a Full-stack & UI/UX Design developer and I’m always looking for opportunities.
+> Hi! My name is Felipe, I’m a Full-stack & UI/UX Design developer and I’m always looking for opportunities.
 > </br>
 > </br>
 > I always liked the areas related to design and interfaces, so much so that I already had a channel in which I taught others to create banners, thumbnails, and how to use some functionalities in some applications and programs.
