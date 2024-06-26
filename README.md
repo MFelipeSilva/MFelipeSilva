@@ -1,6 +1,6 @@
 > [!NOTE]
 > ### 🧑🏽‍💻 About me:
-> Hello, my name is Felipe! I am a Front-end | Full-stack Developer and Web Designer since I was 16 years old.
+> Hello, my name is Felipe! I am a Full-stack Developer and Web Designer since I was 16 years old.
 > </br>
 > </br>
 > The interest in design and interfaces has always been present, resulting in a channel where I taught how to create banners, thumbnails and use features of various applications and programs.
