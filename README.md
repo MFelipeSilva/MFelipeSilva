@@ -41,7 +41,7 @@
 <br>
 <img src = "https://img.shields.io/badge/linkedin-0072b1?&logoColor=white&style=for-the-badge">
 <a href= https://www.linkedin.com/in/maycon-felipe-silva-5835b3312/>
-<br>Maycon Felipe
+<br><i>Maycon Felipe</i>
 </p>
 
 <hr>
