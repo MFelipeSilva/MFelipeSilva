@@ -45,4 +45,4 @@
 </p>
 
 <hr>
-<i>Resolvendo problemas à base de café.</i>
+<i>Resolvendo problemas à base de café desde 2024.</i>
