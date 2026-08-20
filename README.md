@@ -31,5 +31,18 @@
 - <a href=https://github.com/mfelipesilva/html_study>Acompanhe meu progresso em HTML!
 - <a href=https://github.com/mfelipesilva/html_study>Notas Fiscais com SQLite3
 
+## Redes e Contato
+<p>
+  
+<img src = "https://img.shields.io/badge/gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge">
+<br>
+<i>mfelipesilva0411@gmail.com</i>
+<br>
+<br>
+<img src = "https://img.shields.io/badge/linkedin-0072b1?&logoColor=white&style=for-the-badge">
+<a href= https://www.linkedin.com/in/maycon-felipe-silva-5835b3312/>
+<br>Maycon Felipe
+</p>
+
 <hr>
 <i>Resolvendo problemas à base de café.</i>
